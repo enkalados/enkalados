@@ -1,6 +1,6 @@
 <h2>Unity Game Developer </h2>
   
-I've been working on Unity partially since 2018, more focused since the beginning of 2020. I love games so much that I tried to make games in high school without knowing coding. Then I made that my goal. Thanks to the "Kodluyoruz Mobil Game Bootcamp", I learned Hypercasual games better and continued by paying attention to continuous improvement. I am trying to take part in better games in the future. I have intermediate C# and Unity skills.
+I've been working on Unity partially since 2018, more focused since the beginning of 2020. I love games so much that I tried to make games in high school without knowing coding. Then I made that my goal. Thanks to the "Kodluyoruz Mobile Game Bootcamp", I learned Hypercasual games better and continued by paying attention to continuous improvement. I am trying to take part in better games in the future. I have intermediate C# and Unity skills.
 ____________
 ## ✉️ Contact
 ![Mail](https://i.ibb.co/wYK4D81/iconfinder-6296671-microsoft-office-office365-outlook-icon-32px.png)
