@@ -1,6 +1,6 @@
 <h2>Unity Game Developer </h2>
   
-I have been working on Unity since 2018. As of 2021, I continue professionally. I have developed more than 50 mobile game prototypes and I am also developing them for the computer platform. I have good knowledge of C#, algorithms and Unity.
+I have been working on Unity since 2018. As of 2021, I continue professionally. I have developed more than 50 mobile game prototypes and I am also developing them for the PC. I have good knowledge of C#, algorithms and Unity.
 ____________
 ## ✉️ Contact
 ![Mail](https://i.ibb.co/wYK4D81/iconfinder-6296671-microsoft-office-office365-outlook-icon-32px.png)
